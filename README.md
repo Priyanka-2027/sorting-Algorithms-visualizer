@@ -1,9 +1,6 @@
 # Sorting Algorithm Visualizer
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/sorting-visualizer?style=social)](https://github.com/yourusername/sorting-visualizer)
-
-A clean and interactive visualization tool for sorting algorithms, built with React, TypeScript, and Vite.
+A modern, interactive web application that visualizes various sorting algorithms in action. Watch as different sorting algorithms process data in real-time, with customizable speed and array inputs. Built with React, TypeScript, and Vite for optimal performance and developer experience.
 
 ## ✨ Features
 
@@ -77,6 +74,7 @@ If you encounter any issues:
    npm install
    ```
 
-## License
+## Output Screenshots:
+<img width="1846" height="962" alt="image" src="https://github.com/user-attachments/assets/10fa1319-86c5-439b-b392-0373fb934884" />
+<img width="1559" height="885" alt="image" src="https://github.com/user-attachments/assets/fe6467a6-c8c3-420d-b419-434fc04dc771" />
 
-This project is open source and available under the [MIT License](LICENSE).
