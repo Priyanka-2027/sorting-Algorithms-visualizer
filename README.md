@@ -14,7 +14,7 @@ A modern, interactive web application that visualizes various sorting algorithms
 1. Clone the repository
    ```bash
    git clone https://github.com/yourusername/sorting-visualizer.git
-   cd sorting-visualizer
+   cd sorting-visualizer.
    ```
 
 2. Install dependencies
